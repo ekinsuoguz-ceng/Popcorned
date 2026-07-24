@@ -81,4 +81,3 @@ app/
 ## Notes
 
 - Movie data is in Turkish (`language=tr-TR`) by default — change this in [`app/services/tmdb.ts`](app/services/tmdb.ts) if you need another language.
-- `.env.local` is gitignored; never commit real API keys.
