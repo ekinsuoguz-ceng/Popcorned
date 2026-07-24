@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "description": "A movie discovery app built with Next.js and the TMDB API — browse popular movies, search in real time, and view movie details.",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
